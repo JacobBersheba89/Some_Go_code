@@ -26,7 +26,7 @@ Here’s what you might see here (when I figure it out):
 | `basic_functions/` | Where I learn to write and call functions! |
 | `loops_and_conditions/` | Experiments with `for`, `if`, and other *control structures* |
 | `error_handling/` | Where mistakes are not just accepted; they’re celebrated! 🎉 |
-| `projects/` | As I level up, you’ll find small, fun projects here |
+| `projects/` | As I level up, you’ll find small API project... |
 
 ---
 
