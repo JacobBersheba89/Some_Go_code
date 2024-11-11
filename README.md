@@ -22,8 +22,8 @@ Here’s what you might see here (when I figure it out):
 
 | Folder/File | Description |
 |-------------|-------------|
-| Password generator| Have to finish |
-| 'first Api bridge' | Have to finish |
+| Password generator 1.0 & 1.1| very welcome to try! 😉 |
+| 'Api bridge' 1.0 | Have to finish... it´s just steps.. |
 
 
 ---
