@@ -1,4 +1,4 @@
-# 🏄‍♂️ Go Adventure 🐢 - Learning Go One Step at a Time
+# 🏄‍♂️ Go Adventure - Learning Go One Step at a Time
 
 > **Haya guys! 👋** I'm trying to start with my Go journey, and this repo is my playground for learning, experimenting, and improving my coding skills. It may look like a mess (for now), but I promise, it’s a beautiful mess! 😄
 
@@ -6,14 +6,14 @@
 
 ## 💡 About This Repository
 
-Welcome to my Go Repository, where you'll find code that's **50% experimentation, 50% documentation, and 100% curiosity**! I'm diving into Go to grow my skill set and, hopefully, my confidence in handling more languages. 
+ Go Repository, where you'll find code that's **100% experimentation! I'm diving into Go to grow my skill set and, hopefully, my confidence in handling more languages. 
 
 Here’s what you might see here (when I figure it out):
 
-1. **My First Hello World** - Because every adventure starts with "hello"! 🌎
+1. **Im learning API** 🌎
 2. **Basic Go Syntax & Functions** - Experiments with `func`, loops, and other Go basics. 🧪
-3. **Error Handling** - Where I will probably have *lots of errors* to handle. 😉
-4. **Packages & Modules** - Because who doesn’t want to keep things modular, right? 🗃️
+3. **Password_generator** - Try to creat your passwor true my code... 😉
+4. **Packages & Modules** - I will prepare something like that.. 🗃️
 5. **(Upcoming) Small Projects** - Mini-projects as I get better - from CLI apps to web servers! 🚀
 
 ---
@@ -22,11 +22,9 @@ Here’s what you might see here (when I figure it out):
 
 | Folder/File | Description |
 |-------------|-------------|
-| `hello_world.go` | The legendary Hello World in Go |
-| `basic_functions/` | Where I learn to write and call functions! |
-| `loops_and_conditions/` | Experiments with `for`, `if`, and other *control structures* |
-| `error_handling/` | Where mistakes are not just accepted; they’re celebrated! 🎉 |
-| `projects/` | As I level up, you’ll find small API project... |
+| Password generator| Have to finish |
+| 'first Api bridge' | Have to finish |
+
 
 ---
 
