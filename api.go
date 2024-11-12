@@ -88,7 +88,7 @@ func makePostRequest(url string, data Data) {
 	if err != nil {
 		fmt.Println("Error reading response:", err)
 		return
-	}
+	} 
 	fmt.Println("Response:", string(body))
 }
 
