@@ -8,7 +8,7 @@
 
  Go Repository, where you'll find code that's **100% experimentation! I'm diving into Go to grow my skill set and, hopefully, my confidence in handling more languages. 
 
-Here’s what you might see here (when I figure it out):
+Here’s what you might see here (when I figure it out): 
 
 1. **Im learning API** 🌎
 2. **Basic Go Syntax & Functions** - Experiments with `func`, loops, and other Go basics. 🧪
@@ -22,7 +22,7 @@ Here’s what you might see here (when I figure it out):
 
 | Folder/File | Description |
 |-------------|-------------|
-| Password generator 1.0 & 1.1| very welcome to try! 😉 |
+| Password generator 1.0 & 1.1| very welcome to try it ! 😉 |
 | 'Api bridge' 1.0 | Have to finish... it´s just steps.. |
 
 
