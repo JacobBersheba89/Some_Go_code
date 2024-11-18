@@ -13,7 +13,7 @@ func main() {
 	// Načtení délky hesla od uživatele
 	var length int
 	fmt.Print("Zadejte délku hesla: ")
-	fmt.Scan(&length)
+	fmt.Scan(&length) 
 
 	// Generování hesla
 	password := generatePassword(length)
