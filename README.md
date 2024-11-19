@@ -10,6 +10,8 @@
 
 Here’s what you might see here (when I figure it out): 
 
+---
+
 1. **Im learning API** 🌎
 2. **Basic Go Syntax & Functions** - Experiments with `func`, loops, and other Go basics. 🧪
 3. **Password_generator** - Try to creat your passwor true my code... 😉
