@@ -1,4 +1,4 @@
-# 🏄‍♂️ Go Adventure - Learning Go One Step at a Time; CMD // go run password_generator.go
+# 🏄‍♂️ Go Adventure - Learning Go One Step at a Time
 
 > **Haya guys! 👋** I'm trying to start with my Go journey, and this repo is my playground for learning, experimenting, and improving my coding skills. It may look like a mess (for now), but I promise, it’s a beautiful mess! 😄
 
@@ -14,7 +14,7 @@ Here’s what you might see here (when I figure it out):
 
 1. **Im learning API** 🌎
 2. **Basic Go Syntax & Functions** - Experiments with `func`, loops, and other Go basics. 🧪
-3. **Password_generator** - Try to creat your passwor true my code... 😉
+3. **Password_generator** - Try to creat your passwor true my code... 😉 ; CMD // go run password_generator.go
 4. **Packages & Modules** - I will prepare something like that.. 🗃️
 5. **(Upcoming) Small Projects** - Mini-projects as I get better - from CLI apps to web servers! 🚀
 
