@@ -17,6 +17,7 @@ Here’s what you might see here (when I figure it out):
 3. **Password_generator** - Try to creat your passwor true my code... 😉 ; CMD // go run password_generator.go
 4. **Packages & Modules** - I will prepare something like that.. 🗃️
 5. **(Upcoming) Small Projects** - Mini-projects as I get better - from CLI apps to web servers! 🚀
+**in_process**
 6. **API_IP** which give you info about your IP address - API code is from this website [https://api.ipify.org](https://apiip.net/user/dashboard)
 
 ---
