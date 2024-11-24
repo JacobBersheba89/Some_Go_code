@@ -18,7 +18,7 @@ type ApiResponse struct {
 
 func main() {
 	// API klíč (vlož svůj vlastní klíč zde)
-	apiKey := "dfde5e0a-dc8d-4ed1-aaae-cad3d2f01f6c" // Změň na svůj klíč z apiip.net
+	apiKey := "xxxxxxxxxxxxxxxxxxxxxx" // Změň na svůj klíč z apiip.net
 	apiURL := fmt.Sprintf("https://apiip.net/api?key=%s", apiKey)
 
 	// Odeslat HTTP GET požadavek
