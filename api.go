@@ -8,6 +8,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"time"
+	"os"
 )
 
 // posílání a příjem dat.. 
