@@ -88,9 +88,8 @@ func makePostRequest(url string, data Data) {
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
 		fmt.Println("Error reading response:", err)
-		return
-	} 
-	fmt.Println("Response:", string(body))
+		return } 
+	fmt.Println("Response:", string(body)) 
 }
 
 func main() {
