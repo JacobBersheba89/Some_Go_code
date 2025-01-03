@@ -1,4 +1,4 @@
-# 🏄‍♂️ Go Adventure - Learning Go One Step at a Time
+# 🏄‍♂️ just_learning
 
 > **Haya guys! 👋** I'm trying to start with my Go journey, and this repo is my playground for learning, experimenting, and improving my coding skills. It may look like a mess (for now), but I promise, it’s a beautiful mess! 😄
 
